@@ -1,0 +1,2 @@
+# Edge-Detection-using-Canny-and-Sobel-Operators-A-Digital-Image-Processing-Project.
+Edge Detection – Canny &amp; Sobel (Digital Image Processing)  This project demonstrates edge detection techniques using the Canny and Sobel operators, implemented in Python (OpenCV) within Google Colab. It processes both single images and datasets, visualizing the detected edges and comparing both algorithms side by side.
